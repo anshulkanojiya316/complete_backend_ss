@@ -1,0 +1,24 @@
+{
+  "name": "complete_backend_ss",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anshulkanojiya316/complete_backend_ss.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/anshulkanojiya316/complete_backend_ss/issues"
+  },
+  "homepage": "https://github.com/anshulkanojiya316/complete_backend_ss#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
